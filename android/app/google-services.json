@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "160004058763",
+    "project_id": "rentalinfra-6eae1",
+    "storage_bucket": "rentalinfra-6eae1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160004058763:android:0af4ae271725a76c0cee8e",
+        "android_client_info": {
+          "package_name": "com.app.rent_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160004058763-pm0524qf50359iapqqoa6dkqv2qp6l7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpsvWg13T0Bc_g1C1aPkKBq_Pb-Jyw8rg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160004058763-pm0524qf50359iapqqoa6dkqv2qp6l7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
